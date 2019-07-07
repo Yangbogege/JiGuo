@@ -1,0 +1,162 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/*当页面改变大小时可以出现横向滚动条*/
+body {
+    margin: 0;
+    width: 100%;
+    min-width: 1349px;
+    max-width: 100%;
+    height: 100%;
+}
+
+/*版心*/
+.container {
+    margin: 0 10%;
+}
+
+/*-------------头部---------------*/
+header {
+    height: 77px;
+    border-bottom: 1px solid #cecfcf;
+    box-shadow: 0 0 5px #cecfcf inset;
+}
+
+header > div > img {
+    margin-top: 15px;
+}
+
+header > div > img:hover {
+    animation: deft 1.2s infinite linear;
+}
+
+@keyframes deft {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.6;
+    }
+}
+
+header > div {
+    overflow: hidden;
+    height: 77px;
+    position: relative;
+}
+
+header > div > ul {
+    position: absolute;
+    top: 28px;
+    left: 150px;
+}
+
+header > div > ul > li {
+    list-style: none;
+    float: left;
+    padding: 0 25px;
+}
+
+header > div > ul > li > a {
+    font-size: 20px;
+    text-decoration: none;
+    display: inline-block;
+    width: 40px;
+    height: 26px;
+    color: #333333;
+}
+
+header > div > ul > li > .light {
+    color: #FE5341;
+}
+
+header > div > ul > li:hover a {
+    color: #FE5341;
+}
+
+header > div > a:nth-of-type(1) {
+    display: inline-block;
+    width: 42px;
+    height: 40px;
+    background: url("../../css/img/search.png") no-repeat;
+    position: absolute;
+    top: 28px;
+    right: 65px;
+    transition: transform 0.08s ease;
+}
+
+header > div > a:nth-of-type(1):hover {
+    transform: scale(1.1);
+}
+
+header > div > a:nth-of-type(2) {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 16px;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 3px;
+    color: #fe5341;
+    border: 1px #fe5341 solid;
+    position: absolute;
+    top: 28px;
+    right: 0;
+    transition: all 0.15s linear;
+}
+
+header > div > a:nth-of-type(2):hover {
+    background: #fe5341;
+    color: #fff;
+}
+
+/*-------尾部-------------*/
+footer {
+    background: #505050;
+    color: #a3a3a3;
+    padding: 40px 0 15px;
+    height: 360px;
+    position: relative;
+}
+
+footer ul {
+    float: left;
+    margin-left: 22px
+}
+
+footer ul a {
+    color: #a3a3a3;
+    text-decoration: none;
+    height: 20px;
+    line-height: 20px;
+}
+
+footer ul > li {
+    list-style: none;
+    font-size: 13px;
+}
+
+footer ul > li:nth-of-type(1) {
+    padding-bottom: 25px;
+    font-size: 16px;
+    color: white;
+}
+
+footer ul:nth-of-type(2) > li:nth-of-type(3) {
+    margin-top: 13px;
+}
+
+footer ul:nth-of-type(4) a {
+    display: inline-block;
+    width: 69px;
+}
+
+footer p {
+    width: 80%;
+    position: absolute;
+    text-align: center;
+    bottom: 20px;
+}

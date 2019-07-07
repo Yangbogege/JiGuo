@@ -1,0 +1,717 @@
+{
+  "use2_arr": [
+    [
+      {
+        "img_url": "../img/hot5.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","100g"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot9.jpg",
+        "text": "体验师专享",
+        "title": "轻客 TF01 电单车:可折叠 智能变速",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 2
+        }
+      },
+      {
+        "img_url": "../img/hot11.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2
+        }
+      },
+      {
+        "img_url": "../img/hot12.jpg",
+        "text": "体验师专享",
+        "title": "B&O BeoSound 35 音响",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot1.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","389k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot2.jpg",
+        "text": "体验师专享",
+        "title": "Mozbii jksdnf触控吸色笔",
+        "num_arr": ["2032","20台","55k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot3.jpg",
+        "text": "首发",
+        "title": "三星 HW-K950 家庭影院",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot4.jpg",
+        "text": "体验师专享",
+        "title": " XPLODDLFCRER 2 航拍飞行器",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      }
+    ],
+    [
+      {
+        "img_url": "../img/hot5.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","100g"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot9.jpg",
+        "text": "体验师专享",
+        "title": "轻客 TF01 电单车:可折叠 智能变速",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 2
+        }
+      },
+      {
+        "img_url": "../img/hot11.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2
+        }
+      },
+      {
+        "img_url": "../img/hot12.jpg",
+        "text": "体验师专享",
+        "title": "B&O BeoSound 35 音响",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot1.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","389k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot2.jpg",
+        "text": "体验师专享",
+        "title": "Mozbii jksdnf触控吸色笔",
+        "num_arr": ["2032","20台","55k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot3.jpg",
+        "text": "首发",
+        "title": "三星 HW-K950 家庭影院",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot4.jpg",
+        "text": "体验师专享",
+        "title": " XPLODDLFCRER 2 航拍飞行器",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      }
+    ],
+    [
+      {
+        "img_url": "../img/hot5.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","100g"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot9.jpg",
+        "text": "体验师专享",
+        "title": "轻客 TF01 电单车:可折叠 智能变速",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 2
+        }
+      },
+      {
+        "img_url": "../img/hot11.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2
+        }
+      },
+      {
+        "img_url": "../img/hot12.jpg",
+        "text": "体验师专享",
+        "title": "B&O BeoSound 35 音响",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot1.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","389k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot2.jpg",
+        "text": "体验师专享",
+        "title": "Mozbii jksdnf触控吸色笔",
+        "num_arr": ["2032","20台","55k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot3.jpg",
+        "text": "首发",
+        "title": "三星 HW-K950 家庭影院",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot4.jpg",
+        "text": "体验师专享",
+        "title": " XPLODDLFCRER 2 航拍飞行器",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      }
+    ],
+    [
+      {
+        "img_url": "../img/hot5.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","100g"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot9.jpg",
+        "text": "体验师专享",
+        "title": "轻客 TF01 电单车:可折叠 智能变速",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 2
+        }
+      },
+      {
+        "img_url": "../img/hot11.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2
+        }
+      },
+      {
+        "img_url": "../img/hot12.jpg",
+        "text": "体验师专享",
+        "title": "B&O BeoSound 35 音响",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot1.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","389k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot2.jpg",
+        "text": "体验师专享",
+        "title": "Mozbii jksdnf触控吸色笔",
+        "num_arr": ["2032","20台","55k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot3.jpg",
+        "text": "首发",
+        "title": "三星 HW-K950 家庭影院",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot4.jpg",
+        "text": "体验师专享",
+        "title": " XPLODDLFCRER 2 航拍飞行器",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      }
+    ],
+    [
+      {
+        "img_url": "../img/hot5.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","100g"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot9.jpg",
+        "text": "体验师专享",
+        "title": "轻客 TF01 电单车:可折叠 智能变速",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 2
+        }
+      },
+      {
+        "img_url": "../img/hot11.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2
+        }
+      },
+      {
+        "img_url": "../img/hot12.jpg",
+        "text": "体验师专享",
+        "title": "B&O BeoSound 35 音响",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot1.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","389k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot2.jpg",
+        "text": "体验师专享",
+        "title": "Mozbii jksdnf触控吸色笔",
+        "num_arr": ["2032","20台","55k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot3.jpg",
+        "text": "首发",
+        "title": "三星 HW-K950 家庭影院",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot4.jpg",
+        "text": "体验师专享",
+        "title": " XPLODDLFCRER 2 航拍飞行器",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      }
+    ],
+    [
+      {
+        "img_url": "../img/hot5.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","100g"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot9.jpg",
+        "text": "体验师专享",
+        "title": "轻客 TF01 电单车:可折叠 智能变速",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 2
+        }
+      },
+      {
+        "img_url": "../img/hot11.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2
+        }
+      },
+      {
+        "img_url": "../img/hot12.jpg",
+        "text": "体验师专享",
+        "title": "B&O BeoSound 35 音响",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot1.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","389k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot2.jpg",
+        "text": "体验师专享",
+        "title": "Mozbii jksdnf触控吸色笔",
+        "num_arr": ["2032","20台","55k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot3.jpg",
+        "text": "首发",
+        "title": "三星 HW-K950 家庭影院",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot4.jpg",
+        "text": "体验师专享",
+        "title": " XPLODDLFCRER 2 航拍飞行器",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      }
+    ],
+    [
+      {
+        "img_url": "../img/hot5.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","100g"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot9.jpg",
+        "text": "体验师专享",
+        "title": "轻客 TF01 电单车:可折叠 智能变速",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 2
+        }
+      },
+      {
+        "img_url": "../img/hot11.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2
+        }
+      },
+      {
+        "img_url": "../img/hot12.jpg",
+        "text": "体验师专享",
+        "title": "B&O BeoSound 35 音响",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot1.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","389k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot2.jpg",
+        "text": "体验师专享",
+        "title": "Mozbii jksdnf触控吸色笔",
+        "num_arr": ["2032","20台","55k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot3.jpg",
+        "text": "首发",
+        "title": "三星 HW-K950 家庭影院",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot4.jpg",
+        "text": "体验师专享",
+        "title": " XPLODDLFCRER 2 航拍飞行器",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      }
+    ],
+    [
+      {
+        "img_url": "../img/hot5.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","100g"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot9.jpg",
+        "text": "体验师专享",
+        "title": "轻客 TF01 电单车:可折叠 智能变速",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 2
+        }
+      },
+      {
+        "img_url": "../img/hot11.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2
+        }
+      },
+      {
+        "img_url": "../img/hot12.jpg",
+        "text": "体验师专享",
+        "title": "B&O BeoSound 35 音响",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot1.jpg",
+        "text": "首发",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_arr": ["2032","20台","389k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 1,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot2.jpg",
+        "text": "体验师专享",
+        "title": "Mozbii jksdnf触控吸色笔",
+        "num_arr": ["2032","20台","55k"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot3.jpg",
+        "text": "首发",
+        "title": "三星 HW-K950 家庭影院",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 0,
+          "num2": 8
+        }
+      },
+      {
+        "img_url": "../img/hot4.jpg",
+        "text": "体验师专享",
+        "title": " XPLODDLFCRER 2 航拍飞行器",
+        "num_arr": ["2032","20台"],
+        "num1": "1392",
+        "zxc": {
+          "type": 2,
+          "num2": 8
+        }
+      }
+    ]
+  ]
+
+}

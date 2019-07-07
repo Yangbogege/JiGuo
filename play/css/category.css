@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+body {
+    margin:0;
+    width:100%;
+    min-width:1349px;
+    max-width:100%;
+    height:100%;
+}
+
+
+
+/******************酷玩top******************/
+#play-top{
+    width: 80%;
+    margin: 0 auto;
+}
+#play-top>h1{
+    height: 128px;
+    line-height: 128px;
+    text-align: center;
+    font-weight: 400;
+    /*padding: 34px 0 30px 0;*/
+    font-size: 40px;
+}
+
+#play-top>#play-nav{
+    text-align: center;
+    height: 40px;
+}
+#play-top>#play-nav>a{
+    font-size: 18px;
+    color: #a3a3a3;
+    width: 165px;
+    display: inline-block;
+}
+#play-top>#play-nav> .on{
+    font-size: 19px;
+    font-weight: bold;
+    color: #fe5431;
+    padding-bottom: 10px;
+    border-bottom: 4px solid #fe5431;
+}
+/*#play-top>#play-nav>a:hover{*/
+    /*font-size: 19px;*/
+    /*font-weight: bold;*/
+    /*color: #fe5431;*/
+    /*padding-bottom: 10px;*/
+    /*border-bottom: 4px solid #fe5431;*/
+/*}*/
+
+/***********发现酷玩**********/
+#replay-box{
+    background: #f7f7f7;
+}
+#replay-box> .cruel-box{
+    width: 80%;
+    padding-top: 25px;
+    margin: 0 auto;
+}
+#replay-box> .cruel-box> .my-cruel{
+    padding-bottom: 20px;
+    overflow: hidden;
+
+}
+#replay-box> .cruel-box li{
+    width: 222px;
+    height: 255px;
+    line-height: 21px;
+    margin: 0 37px 20px 0;
+    float: left;
+    border: 1px solid #e6e9e9;
+    border-radius: 10px;
+}
+#replay-box> .cruel-box> li:nth-child(4n+4){
+    margin: 0 0 20px 0;
+}
+#replay-box> .cruel-box li>a{
+    display: block;
+}
+#replay-box> .cruel-box li>a>img{
+    border-radius: 6px 6px 0 0;
+}
+#replay-box> .cruel-box li>a>.cruel{
+    background: white;
+    height: 91px;
+    padding: 15px;
+}
+#replay-box> .cruel-box li>a>.cruel>.cruel-size{
+    color: black;
+    font-size: 16px;
+    height: 40px;
+}
+#replay-box> .cruel-box li>a>.cruel>.cruel-size>span{
+    color: #a3a3a3;
+    font-size: 12px;
+
+}
+#replay-box> .cruel-box li>a>.cruel>.cruel-money{
+    height: 50px;
+    line-height: 50px;
+
+}
+#replay-box> .cruel-box li>a>.cruel>.cruel-money>.cruel-left{
+    color: #fe5341;
+    font-size: 20px;
+}
+#replay-box> .cruel-box li>a>.cruel>.cruel-money>.cruel-right{
+    float: right;
+    color: #a3a3aa;
+}
+#replay-box> .cruel-box li>a>.cruel>.cruel-money>.cruel-right>span{
+    display: inline-block;
+    padding-left:14px ;
+}
+#replay-box> .cruel-box li>a>.cruel>.cruel-money>.cruel-right>.xin{
+    background: url(../../css/img/xin.png) no-repeat left center;
+}
+#replay-box> .cruel-box li>a>.cruel>.cruel-money>.cruel-right>.yan{
+    background: url(../../css/img/reply.png) no-repeat left center;
+}
+
+
+/****点击加载更多****/
+#replay-box>.cruel-box>.playMore{
+    font-size: 18px;
+    text-align: center;
+    padding: 10px 0 50px 0;
+
+}
+#replay-box>.cruel-box>.playMore>a{
+    padding-left: 18px;
+    color: #fe5341;
+    background: url("../../img/more.png") no-repeat left center;
+}
+
+/*图片一闪一闪*/
+#replay-box>.cruel-box>.my-cruel>li>a:hover>img{
+    animation:donghua 0.6s linear 0s infinite alternate;
+}
+@keyframes donghua {
+    from{
+        opacity: 1;
+    }
+    to{
+        opacity: 0.5;
+    }
+ }
+
+
+/*--------CSS加载更多-----------*/
+.playMore{
+    color: #a3a3a3;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.playMore>span{
+    background: url(../../css/img/more.png) no-repeat left center;
+    color: #fe5341;
+    padding-left: 24px;
+    cursor: pointer;
+}
+.playMore>.loading{
+    background-image: url(../../css/img/loading-icon.gif);
+}
+.playMore>.no-more{
+    color: #a3a3a3;
+    background:none;
+    cursor: text;
+}

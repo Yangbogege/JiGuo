@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+body {
+    margin:0;
+    width:100%;
+    min-width:1349px;
+    max-width:100%;
+    height:100%;
+}
+
+
+
+/******************酷玩top******************/
+#play-top{
+    width: 80%;
+    margin: 0 auto;
+}
+#play-top>h1{
+    height: 128px;
+    line-height: 128px;
+    text-align: center;
+    /*padding: 34px 0 30px 0;*/
+    font-size: 40px;
+}
+
+#play-top>#play-nav{
+    text-align: center;
+    height: 40px;
+}
+#play-top>#play-nav>a{
+    font-size: 18px;
+    color: #a3a3a3;
+    width: 165px;
+    display: inline-block;
+}
+#play-top>#play-nav> .on{
+    font-size: 19px;
+    font-weight: bold;
+    color: #fe5431;
+    padding-bottom: 10px;
+    border-bottom: 4px solid #fe5431;
+}
+/**********品类*********/
+#replay-box{
+    background: #f7f7f7;
+}
+#replay-box> .cate-box{
+    width: 80%;
+    padding-top: 25px;
+    margin: 0 auto;
+}
+
+/*生活*/
+#replay-box> .cate-box>ul>li{
+    padding-bottom: 35px;
+    border: 1px solid #ebecec;
+    border-radius: 6px;
+}
+#replay-box> .cate-box>ul>li>dl{
+    background: #fff;
+}
+#replay-box> .cate-box>ul>li>dl>dt{
+    position: relative;
+    padding: 19px 0 19px 30px;
+    font-size: 16px;
+    line-height: 25px;
+    border-left: 5px solid #fe5341; ;
+}
+
+#replay-box> .cate-box>ul>li>dl>dd{
+    padding: 0 13px 18px;
+    overflow: hidden;
+}
+#replay-box> .cate-box>ul>li>dl>dd>.list{
+    float: left;
+    width: 197px;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 17px;
+}
+#replay-box> .cate-box>ul>li>dl>dd>.list>a{
+    color: #a3a3a3;
+
+}
+
+
+#replay-box> .cate-box>ul>li>dl>dd>.list>a:hover{
+    color: #FE5431;
+}
+
+#replay-box> .cate-box>ul>li>dl>dd>.list>a:hover >img{
+    animation:scaleDraw 5s ease-in-out infinite;
+}
+@keyframes scaleDraw {  /*定义关键帧、scaleDrew是需要绑定到选择器的关键帧名称*/
+    0%{
+        transform: scale(1);  /*开始为原始大小*/
+    }
+    25%{
+        transform: scale(1.1); /*放大1.1倍*/
+    }
+    50%{
+        transform: scale(1);
+    }
+    75%{
+        transform: scale(1.1);
+    }
+}
+
+

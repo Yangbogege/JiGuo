@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>use5</title>
+    <link rel="stylesheet" href="css/use2.css">
+    <link rel="stylesheet" href="css/head-foot.css">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/doT.min.js"></script>
+    <script src="js/uses.js"></script>
+    <style>
+        .biao-T a:first-of-type{
+            color:red;
+            border-bottom:2px solid red ;
+        }
+    </style>
+</head>
+<body>
+<!--头部-->
+<header>
+    <div class="container">
+        <img src="../img/logonew.png" alt="" width="132">
+        <ul>
+            <li><a href="../index.html" >首页</a></li>
+            <li><a href="../play/category.html">酷玩</a></li>
+            <li><a href="../guid/category.html">导购</a></li>
+            <li><a href="use2.html" class="light">使用</a></li>
+            <li><a href="../report/index.html">报告</a></li>
+        </ul>
+        <a href="" class="h_search"></a>
+        <a href="../register.html" class="h_register">注册</a>
+    </div>
+</header>
+<section>
+    <div class="biao-t">
+        <h4>免费试用</h4>
+        <div class="biao-T">
+            <a href="use2.html">大众试用</a>
+            <a href="use6.html">体验师专享</a>
+        </div>
+        <div class="biao-B">
+            <a href="use2.html">全部</a>
+            <a  href="use3.html" >申请中</a>
+            <a  href="use4.html">试用</a>
+            <a style="color:black" href="">已结束</a>
+        </div>
+    </div>
+
+</section>
+<section class="img-shop">
+    <ul class="out-pic" id="pic">
+
+    </ul>
+    <div class="jia-z">
+        <a href="" id="mores"> <img src="../css/img/loading-icon.gif" alt="">  加载更多</a>
+    </div>
+</section>
+<footer>
+    <div class="container">
+        <ul>
+            <li><img src="../img/code.png" width="160" alt=""></li>
+        </ul>
+        <ul>
+            <li><img src="../img/logoImg.jpg" alt=""></li>
+            <li>全球酷玩试用导购平台<br/>
+                酷·新奇·好玩·品质</li>
+            <li>微信添加“JguoJguo”<br/>
+                获取我们的服务</li>
+        </ul>
+        <ul>
+            <li>免费试用</li>
+            <li><a href="../help.html">试用流程</a></li>
+            <li><a href="../about.html">如何提高成功率</a></li>
+        </ul>
+        <ul>
+            <li>友情链接</li>
+            <li><a href="">智东西</a><a href="">WEIBUSI</a></li>
+            <li><a href="">搜狐IT</a><a href="">腾讯科技</a></li>
+            <li><a href="">搜狐数码</a><a href="">凤凰科技</a></li>
+            <li><a href="">凤凰数码</a><a href="">PConline</a></li>
+            <li><a href="">泡泡网</a><a href="">3W咖啡</a></li>
+            <li><a href="">ZUK社区</a><a href="">亿觅emie</a></li>
+            <li><a href="">极客公园</a><a href="">易迅易启玩</a></li>
+            <li><a href="">果库</a></li>
+        </ul>
+        <ul>
+            <li>购买攻略</li>
+            <li><a href="">美亚海淘教程</a></li>
+            <li><a href="">日亚海淘教程</a></li>
+            <li><a href="">海淘转运攻略</a></li>
+            <li><a href="">kickstarter 众筹购买攻略</a></li>
+            <li><a href="">indiegogo 众筹购买攻略</a></li>
+        </ul>
+        <ul>
+            <li>厂商合作</li>
+            <li><a href="">关于极果</a></li>
+            <li><a href="">联系我们</a></li>
+            <li><a href="">商务合作：BD@jiguo.com</a></li>
+            <li><a href="">CEO邮箱：CEO@jiguo.com</a></li>
+        </ul>
+        <p>&copy; 2016 极果版权所有</p>
+    </div>
+</footer>
+<script id="sy_asd" type="text/x-dot-template">
+    {{~it:value:index }}
+    <li>
+        <a href="use1.html">
+            <div class="pic-a">
+                <img src="{{=value.img_url}}" alt="">
+                <div class="shou-f">{{=value.text}}</div>
+                <p>{{=value.title}}</p>
+                <p>
+                    {{~value.num_arr:val:ind}}
+                    <span>{{=val}}</span>
+                    {{~}}
+                </p>
+                <p><span>{{=value.num1}}</span>申请</p>
+
+                <p><span>剩余时间2天</span></p>
+            </div>
+        </a>
+    </li>
+    {{~}}
+</script>
+</body>
+</html>

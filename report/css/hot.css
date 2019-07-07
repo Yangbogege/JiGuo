@@ -1,0 +1,375 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/*当页面改变大小时可以出现横向滚动条*/
+body {
+    margin: 0;
+    width: 100%;
+    min-width: 1349px;
+    max-width: 100%;
+    height: 100%;
+}
+
+/*版心*/
+.container {
+    margin: 0 10%;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*-------------头部---------------*/
+header {
+    height: 77px;
+    border-bottom: 1px solid #cecfcf;
+    box-shadow: 0 0 5px #cecfcf inset;
+}
+
+header > div > img {
+    margin-top: 15px;
+}
+
+header > div > img:hover {
+    animation: deft 1.2s infinite linear;
+}
+/*---------图片动画--------------*/
+@keyframes deft {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.6;
+    }
+}
+
+header > div {
+    overflow: hidden;
+    height: 77px;
+    position: relative;
+}
+
+header > div > ul {
+    position: absolute;
+    top: 28px;
+    left: 150px;
+}
+
+header > div > ul > li {
+    list-style: none;
+    float: left;
+    padding: 0 25px;
+}
+
+header > div > ul > li > a {
+    font-size: 20px;
+    text-decoration: none;
+    display: inline-block;
+    width: 40px;
+    height: 26px;
+    color: #333333;
+}
+
+header > div > ul > li > .light {
+    color: #FE5341;
+}
+
+
+header > div > ul > li:hover a {
+    color: #FE5341;
+}
+
+header > div > a:nth-of-type(1) {
+    display: inline-block;
+    width: 42px;
+    height: 40px;
+    background: url("../../css/img/search.png") no-repeat;
+    position: absolute;
+    top: 28px;
+    right: 65px;
+    transition: transform 0.08s ease;
+}
+
+header > div > a:nth-of-type(1):hover {
+    transform: scale(1.1);
+}
+
+header > div > a:nth-of-type(2) {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 16px;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 3px;
+    color: #fe5341;
+    border: 1px #fe5341 solid;
+    position: absolute;
+    top: 28px;
+    right: 0;
+    transition: all 0.15s linear;
+}
+
+header > div > a:nth-of-type(2):hover {
+    background: #fe5341;
+    color: #fff;
+}
+
+/*---------------体检报告-----------*/
+.n_h h1 {
+    text-align: center;
+    padding: 34px 0 30px;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.n_h nav {
+    text-align: center;
+    line-height: 1.7;
+    font-size: 0;
+}
+
+.n_h nav a {
+    color: #a3a3a3;
+    display: inline-block;
+    padding-bottom: 12px;
+    width: 165px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.n_h nav a:nth-of-type(2) {
+    color: #fe5431;
+    border-bottom: 4px #fe5431 solid;
+    padding-bottom: 8px;
+}
+
+/*----------主体内容---------------*/
+a {
+    text-decoration: none;
+    color: #a3a3a3;
+    outline: none;
+}
+
+.reportBox {
+    background: #f7f7f7;
+    overflow: hidden;
+}
+
+.reportBox > div {
+    padding-top: 25px;
+}
+
+.reportBox .left {
+    width: 700px;
+    float: left;
+}
+
+.reportBox .left li {
+    list-style: none;
+    border-radius: 6px;
+    border: 1px solid #e6e9e9;
+    margin-bottom: 13px;
+    position: relative;
+    overflow: hidden;
+}
+
+.reportBox .left li > a > div {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 22px;
+    background: rgba(255, 255, 255, .9)
+}
+
+.reportBox .left li > a > div > p:nth-of-type(1) {
+    color: #474747;
+    font-size: 18px;
+    padding: 9px 0 12px;
+    font-weight: normal;
+    line-height: 1.6;
+}
+
+.reportBox .left li > a > div > div {
+    overflow: hidden;
+    font-size: 13px;
+    padding: 16px 0 11px;
+}
+
+.reportBox .left li > a > div > div > div:nth-of-type(1) {
+    float: left;
+}
+
+.reportBox .left li > a > div > div > div:nth-of-type(1) > span {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.reportBox .left li > a > div > div > div:nth-of-type(1) > span:nth-of-type(1) {
+    background: url(../../css/img/tx.jpg) no-repeat;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.reportBox .left li > a > div > div > div:nth-of-type(1) > span:nth-of-type(2) {
+    color: #fe5341;
+}
+
+.reportBox .left li > a > div > div > div:nth-of-type(1) > span:nth-of-type(3) {
+    color:#a3a3a3;
+}
+
+.reportBox .left li > a > div > div > div:nth-of-type(2) {
+    float: right;
+    color: #a3a3a3;
+}
+.reportBox .left li > a > div > div > div:nth-of-type(2) > span{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 14px;
+    margin-left: 3px;
+}
+.reportBox .left li > a > div > div > div:nth-of-type(2) > span:nth-of-type(1){
+    background: url(../../css/img/zan.png) no-repeat left 4px;
+}
+.reportBox .left li > a > div > div > div:nth-of-type(2) > span:nth-of-type(2){
+    background: url(../../css/img/reply.png) no-repeat left 4px;
+}
+.reportBox .left>ul>p{
+    color: #a3a3a3;
+    text-align: center;
+    height: 48px;
+    line-height: 48px;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid #e6e9e9;
+    margin-bottom: 13px;
+    position: relative;
+    overflow: hidden;
+}
+
+.reportBox .left li:hover img {
+    animation: deft 1.2s infinite linear;
+}
+/*--------加载更多-----------*/
+.playMore{
+    color: #a3a3a3;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.playMore>span{
+    background: url(../../css/img/more.png) no-repeat left center;
+    color: #fe5341;
+    padding-left: 24px;
+    cursor: pointer;
+}
+.playMore>.loading{
+    background-image: url(../../css/img/loading-icon.gif);
+}
+.playMore>.no-more{
+    color: #a3a3a3;
+    background:none;
+    cursor: text;
+}
+
+.reportBox .right{
+    width: 270px;
+    float: right;
+}
+
+.reportBox .right div h2{
+    font-size: 18px;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 30px;
+    color: #474747;
+    font-weight: normal;
+    margin-bottom:20px;
+    border-left:6px solid #fe5341;
+}
+.reportBox .right div h5{
+    color: #474747;
+    font-size: 16px;
+    padding: 5px 0;
+    margin-top: 10px;
+}
+.reportBox .right div p{
+    color: #a3a3a3;
+    font-size: 14px;
+}
+.reportBox .right div:nth-of-type(2){
+    margin-top: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-------尾部-------------*/
+footer {
+    background: #505050;
+    color: #a3a3a3;
+    padding: 40px 0 15px;
+    height: 360px;
+    position: relative;
+}
+
+footer ul {
+    float: left;
+    margin-left: 22px
+}
+
+footer ul a {
+    color: #a3a3a3;
+    text-decoration: none;
+    height: 20px;
+    line-height: 20px;
+}
+
+footer ul > li {
+    list-style: none;
+    font-size: 13px;
+}
+
+footer ul > li:nth-of-type(1) {
+    padding-bottom: 25px;
+    font-size: 16px;
+    color: white;
+}
+
+footer ul:nth-of-type(2) > li:nth-of-type(3) {
+    margin-top: 13px;
+}
+
+footer ul:nth-of-type(4) a {
+    display: inline-block;
+    width: 69px;
+}
+
+footer p {
+    width: 80%;
+    position: absolute;
+    text-align: center;
+    bottom: 20px;
+}

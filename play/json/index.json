@@ -1,0 +1,113 @@
+{
+  "play":[
+    {
+      "play_a":"",
+      "play_img":"../img/k1.jpg",
+      "play_p":"SCiO 微型光谱仪",
+      "play_p_span":"可以测定食物成分及营养",
+      "play_money":"￥ 1212"
+
+    },
+    {
+      "play_img":"../img/k2.jpg",
+      "play_p":"B&O BeoSound 35 音响",
+      "play_p_span":"支持所有音乐流媒体服务",
+      "play_money":"￥ 512"
+
+    },
+    {
+      "play_img":"../img/k3.jpg",
+      "play_p":"Mozbii 触控吸色笔",
+      "play_p_span":"能吸取65000种颜色",
+      "play_money":"￥ 暂无"
+
+    },
+    {"play_img":"../img/k4.jpg",
+      "play_p":"XPLORER 2 航拍飞行器",
+      "play_p_span":"搭载自动避障系统",
+      "play_money":"￥ 12120"
+
+    },
+    {
+      "play_img":"../img/k1.jpg",
+      "play_p":"SCiO 微型光谱仪",
+      "play_p_span":"可以测定食物成分及营养",
+      "play_money":"￥ 1212"
+
+    },
+    {
+      "play_img":"../img/k2.jpg",
+      "play_p":"B&O BeoSound 35 音响",
+      "play_p_span":"支持所有音乐流媒体服务",
+      "play_money":"￥ 512"
+
+    },
+    {
+      "play_img":"../img/k3.jpg",
+      "play_p":"Mozbii 触控吸色笔",
+      "play_p_span":"能吸取65000种颜色",
+      "play_money":"￥ 暂无"
+
+    },
+    {"play_img":"../img/k4.jpg",
+      "play_p":"XPLORER 2 航拍飞行器",
+      "play_p_span":"搭载自动避障系统",
+      "play_money":"￥ 12120"
+
+    },
+    {
+      "play_img":"../img/k1.jpg",
+      "play_p":"SCiO 微型光谱仪",
+      "play_p_span":"可以测定食物成分及营养",
+      "play_money":"￥ 1212"
+
+    },
+    {
+      "play_img":"../img/k2.jpg",
+      "play_p":"B&O BeoSound 35 音响",
+      "play_p_span":"支持所有音乐流媒体服务",
+      "play_money":"￥ 512"
+
+    },
+    {
+      "play_img":"../img/k3.jpg",
+      "play_p":"Mozbii 触控吸色笔",
+      "play_p_span":"能吸取65000种颜色",
+      "play_money":"￥ 暂无"
+
+    },
+    {"play_img":"../img/k4.jpg",
+      "play_p":"XPLORER 2 航拍飞行器",
+      "play_p_span":"搭载自动避障系统",
+      "play_money":"￥ 12120"
+
+    },
+    {
+      "play_img":"../img/k1.jpg",
+      "play_p":"SCiO 微型光谱仪",
+      "play_p_span":"可以测定食物成分及营养",
+      "play_money":"￥ 1212"
+
+    },
+    {
+      "play_img":"../img/k2.jpg",
+      "play_p":"B&O BeoSound 35 音响",
+      "play_p_span":"支持所有音乐流媒体服务",
+      "play_money":"￥ 512"
+
+    },
+    {
+      "play_img":"../img/k3.jpg",
+      "play_p":"Mozbii 触控吸色笔",
+      "play_p_span":"能吸取65000种颜色",
+      "play_money":"￥ 暂无"
+
+    },
+    {"play_img":"../img/k4.jpg",
+      "play_p":"XPLORER 2 航拍飞行器",
+      "play_p_span":"搭载自动避障系统",
+      "play_money":"￥ 12120"
+
+    }
+]
+}

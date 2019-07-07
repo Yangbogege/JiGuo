@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin:0;
+    width:100%;
+    min-width:1349px;
+    max-width:100%;
+    height:100%;
+}
+
+ul{
+    list-style: none;
+}
+
+.biao-t{
+    width:100%;
+    text-align: center;
+}
+.biao-t h4{
+    font-size:45px;
+    margin: 30px 0;
+    font-weight:500 ;
+}
+.biao-T{
+    width:100%;
+    height:38px;
+    border-bottom: 1px solid #d4cede;
+}
+.biao-T a{
+    padding: 10px 20px;
+    font-size:20px;
+    color: #797979;
+    text-decoration: none;
+}
+
+.biao-B a{
+    display: inline-block;
+    padding: 20px 40px;
+    font-size:20px;
+    color: #797979;
+    text-decoration: none;
+}
+.img-shop{
+    width:100%;
+    background-color: #ebebeb;
+}
+.out-pic{
+    width:80%;
+    margin: 0 auto;
+    overflow: hidden;
+
+}
+.out-pic a{
+    position: relative;
+    float: left;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    margin: 20px 20px 0 20px;
+    width:227px;
+    border: 1px solid #cacaca;
+    background-color: #fff;
+}
+.out-pic a img{
+    width:100%;
+    height:150px;
+    border-radius: 5px;
+}
+.out-pic a img:hover{
+    animation:opacity 2s ease 0s infinite ;
+}
+@keyframes opacity{
+    0%{
+        opacity:1;
+    }
+    50%{
+        opacity:0.5;
+    }
+    100%{
+        opacity:1;
+    }
+}
+.shou-f{
+    position:absolute;
+    top:0;
+    right:0;
+    color:#fff;
+    font-size:15px;
+    padding: 3px 10px;
+    background:#f00 ;
+    border-radius: 0px 5px;
+
+}
+.out-pic p:first-of-type{
+    color:black;
+    font-size:20px;
+    padding: 5px 5px;
+
+}
+.out-pic p:nth-of-type(2){
+    margin:5px 0 ;
+}
+.out-pic p:nth-of-type(2) span{
+    border:1px solid red;
+    border-radius:5px ;
+    margin: 0px 5px;
+    color:red;
+    font-size:15px;
+    padding: 2px 5px;
+}
+.out-pic p:nth-of-type(3){
+    padding: 10px 0;
+}
+.out-pic p:nth-of-type(3) span{
+    color:red;
+}
+.out-pic p:last-of-type{
+    color:red;
+    margin-bottom: 10px;
+}
+.jia-z{
+    text-align: center;
+    height:100px;
+    line-height: 100px;
+}
+
+.out-pic li:nth-child(2n) .shou-f{
+    background-color: #ffcca2;
+    color: #ff7b16;
+}
+.out-pic li:nth-child(2n) p:nth-of-type(2) span{
+    color:green;
+    border: 1px solid green;
+}
+.out-pic li:nth-child(2n) p:last-of-type{
+    color:green;
+}
